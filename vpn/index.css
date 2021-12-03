@@ -1,0 +1,13 @@
+body{
+    background: rgb(19,0,255);
+}
+
+h1.vpnhere {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1.vpnhere a{
+    color: black;
+    text-decoration: none;
+}
